@@ -8,7 +8,7 @@
 }
 
 .elementor-widget-image .widget-image-caption {
-    color: var( --e-global-color-text);
+    color: var( --e-global-color-primary);
     font-weight: var( --e-global-typography-text-font-weight);
 }
 
